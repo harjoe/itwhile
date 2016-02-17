@@ -1,6 +1,6 @@
 package itwhile.application.email;
 
-public class EMail
+public class EMailSender
 {
 	private String host;
 	private int port;
